@@ -4,7 +4,7 @@ import YearChartVue from './YearChart.vue';
 </script>
 
 <template>
-    <div class="p-3 grid grid-cols-2 gap-3">
+    <div class="p-3 grid md:grid-cols-2 gap-3">
         <div class="flex flex-col space-y-3">
             <div class="grid grid-flow-row gap-3">
                 <div class="grid grid-flow-col gap-3">
